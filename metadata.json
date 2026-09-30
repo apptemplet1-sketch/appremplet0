@@ -1,0 +1,10 @@
+{
+  "name": "Project Duplicator & Database Migration Hub",
+  "description": "تطبيق شامل لإدارة المنتجات والعملاء والفواتير وأدوار الفريق للشركات والمؤسسات.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
